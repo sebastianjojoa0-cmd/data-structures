@@ -31,6 +31,7 @@ while True:
               id = input("Ident number:")
               firstname = input ("Ident number:")
               lastname = input ("lastname")
+              
               mobile_phone = input ("mobile phone")
               email = input ("Email")
               gender = input ("gender [M/F/O]:")
